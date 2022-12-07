@@ -1,13 +1,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marco Antonio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoan20&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 Pleno Full Stack Developer and member of Escritório de Engenharia a college group where we made projects and help freshmen get started with Back-end and Front-end programming
+- 🔥 Pleno Full Stack Developer
 
 - 🔭 I’m currently working at Quarter Tecnologias
 
 - 📚 I'm now in the eighth (of ten) semester of the Computer Engineering course at [Cesupa](https://www.cesupa.br)
 
 - ⛰️ I'm founding member and developer of startup [Zenith Inovações](https://www.zenithinovacoes.com.br/)
+
+- 👨‍🏫 I'm a member of Escritório de Engenharia a college group where we do projects and help freshmen get started with Back-end and Front-end programming and get they first job
 
 - 💬 Ask me about **Node.js, Javascript, Typescript**
 
