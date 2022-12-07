@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marco Antonio</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoan20&color=blueviolet" alt="Profile views" /> </p>
 
-<!--
-**marcoan20/marcoan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Pleno Full Stack Developer and member of Escritório de Engenharia a college group where we made projects and help freshmen get started with Back-end and Front-end programming
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Quarter Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I'm now in the eighth (of ten) semester of the Computer Engineering course at [Cesupa](https://www.cesupa.br)
+
+- ⛰️ I'm founding member and developer of startup [Zenith Inovações](https://www.zenithinovacoes.com.br/)
+
+- 💬 Ask me about **Node.js, Javascript, Typescript**
+
+- 👨‍💻 I'm now studying **Next.js**
+
+- 🤔 I’m looking for help with **AWS Cloud, Next.js**
+
+<!-- - 👨‍💻 More at  -->
+
+
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=Microsoft%20SQL%20Server)&nbsp;
+
+<br><br>
+
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/marcopierozan" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-marcopierozan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/marcopierozan" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-marcopierozan-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
