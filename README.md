@@ -20,30 +20,30 @@
 <!-- - 👨‍💻 More at  -->
 
 <br>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=marcoan20&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=marcoan20&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcoan20&show_icons=true" />
-</picture>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoan20&layout=compact&theme=dark&langs_count=10"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoan20&layout=compact&langs_count=10"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoan20&layout=compact&langs_count=10" />
-</picture>
-
+<div align="center">
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=marcoan20&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=marcoan20&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=marcoan20&show_icons=true" />
+  </picture>
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoan20&layout=compact&theme=dark&langs_count=10"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoan20&layout=compact&langs_count=10"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoan20&layout=compact&langs_count=10" />
+  </picture>
+</div>
 <br>
 
 ## 🛠 &nbsp;Tech Stack
