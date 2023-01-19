@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Quarter Tecnologias](https://quarter-tecnologia.negocio.site/)
 
-- 📚 I'm now in the eighth (of ten) semester of the Computer Engineering course at [Cesupa](https://www.cesupa.br)
+- 📚 I'm now in the ninth (of ten) semester of the Computer Engineering course at [Cesupa](https://www.cesupa.br)
 
 - ⛰️ I'm founding member and developer of startup [Zenith Inovações](https://www.zenithinovacoes.com.br/)
 
