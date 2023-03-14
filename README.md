@@ -9,13 +9,13 @@
 
 - ⛰️ I'm founding member and developer of startup [Zenith Inova](https://www.zenithinova.com.br/)
 
-- 👨‍🏫 I'm a member of Escritório de Engenharia a college group where we do projects and help freshmen get started with Back-end and Front-end programming and get they first job
+- 👨‍🏫 I'm a member of Escritório de Engenharia, a college group, where we do projects and help freshmen get started with programming and get they first job
 
-- 💬 Ask me about **Node.js, Javascript, Typescript**
+- 💬 Ask me about **Node.js, Javascript, Typescript, C#, .NET MAUI**
 
 - 👨‍💻 I'm now studying **Next.js**
 
-- 🤔 I’m looking for help with **AWS Cloud, Next.js**
+- 🤔 I’m looking for help with **AWS Cloud, React, Next.js, Nest.js, React-Native**
 
 <!-- - 👨‍💻 More at  -->
 
