@@ -7,7 +7,7 @@
 
 - 📚 I'm now in the ninth (of ten) semester of the Computer Engineering course at [Cesupa](https://www.cesupa.br)
 
-- ⛰️ I'm founding member and developer of startup [Zenith Inovações](https://www.zenithinovacoes.com.br/)
+- ⛰️ I'm founding member and developer of startup [Zenith Inova](https://www.zenithinova.com.br/)
 
 - 👨‍🏫 I'm a member of Escritório de Engenharia a college group where we do projects and help freshmen get started with Back-end and Front-end programming and get they first job
 
