@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Node.js, Javascript, Typescript, C#, .NET MAUI**
 
-- 👨‍💻 I'm now studying **Next.js**
+- 👨‍💻 I'm now studying **Nest.js**
 
 - 🤔 I’m looking for help with **AWS Cloud, React, Next.js, Nest.js, React-Native**
 
