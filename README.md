@@ -70,7 +70,4 @@
 <a href="https://www.linkedin.com/in/marcopierozan" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-marcopierozan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/marcopierozan" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-marcopierozan-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
