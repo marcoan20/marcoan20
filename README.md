@@ -3,7 +3,7 @@
 
 - 🔥 Pleno Full Stack Developer
 
-- 🔭 I’m currently working at [Quarter Tecnologias](https://quarter-tecnologia.negocio.site/)
+- 🔭 I’m currently working at [Zenith Inova](https://www.zenithinova.com.br/)
 
 - 📚 I'm now in the last semester of the Computer Engineering course at [Cesupa](https://www.cesupa.br)
 
